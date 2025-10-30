@@ -1,5 +1,9 @@
-A minimal blog theme for [Zola](https://www.getzola.org), well crafted.
+# mellow serene
 
-[Demo](https://serene-demo.pages.dev) | [Usage](https://github.com/isunjn/serene/blob/latest/USAGE.md)
+a nimble theme
+
+## acknowledgement
+
+fork of serene by [isunjn](https://github.com/isunjn/serene)
 
 ![screenshot](https://github.com/isunjn/serene/blob/main/screenshot.png?raw=true)
