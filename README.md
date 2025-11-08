@@ -2,6 +2,8 @@
 
 a nimble theme
 
+![screenshot current](./screenshot.png?raw=true)
+
 ## acknowledgement
 
 fork of serene by [isunjn](https://github.com/isunjn/serene)
